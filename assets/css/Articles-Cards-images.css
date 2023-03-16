@@ -59,3 +59,13 @@
 .text-num {
 }
 
+.link-ico {
+  color: var(--bs-white);
+}
+
+.link-ico:hover {
+  color: #42dca3;
+  font-size: 22px;
+  transition: all 0.5s linear;
+}
+
